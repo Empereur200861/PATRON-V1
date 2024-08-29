@@ -1,3 +1,4 @@
 bash heroku/nodejs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+git clone (copy and paste your forked repo link not mine to save your changes) 
