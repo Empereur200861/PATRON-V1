@@ -46,7 +46,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
 
 //===========================//
 
-global.country = '234';
+global.country = '242';
 global.system = {
   gmail: 'winneraileme6@gmail.com',
 };
