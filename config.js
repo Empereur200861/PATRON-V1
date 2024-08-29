@@ -23,11 +23,11 @@ global.location = '1'; // Replace with your location panel
 //===========================//
 
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
-global.owner = ['2348133729715'];
-global.ownMain = '2348133729715';
+global.owner = ['242069091647'];
+global.ownMain = '242057954499';
 global.NamaOwner = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change 
-global.sessionName = 'session';
-global.connect = true; // Set to false if using QR Code
+global.sessionName = 'mc0lCByR#zJfi3LK4FPnKVFJqIlocestU2UKr-ptn6l3gpeSR6Dw';
+global.connect = false; // Set to false if using QR Code
 global.namabot = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
 global.author = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
 global.packname = 'PATRON 🚹'; // Change if needed
